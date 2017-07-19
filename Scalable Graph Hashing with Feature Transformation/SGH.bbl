@@ -1,0 +1,188 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Andoni and Indyk}{2006}]{4031381}
+A.~Andoni and P.~Indyk.
+\newblock Near-optimal hashing algorithms for approximate nearest neighbor in
+  high dimensions.
+\newblock In {\em 2006 47th Annual IEEE Symposium on Foundations of Computer
+  Science (FOCS'06)}, pages 459--468, Oct 2006.
+
+\bibitem[\protect\citeauthoryear{Andoni}{2010}]{Andoni2010Nearest}
+Alexandr Andoni.
+\newblock Nearest neighbor search: the old, the new, and the impossible.
+\newblock {\em Massachusetts Institute of Technology}, 2010.
+
+\bibitem[\protect\citeauthoryear{Datar \bgroup \em et al.\egroup
+  }{2004}]{Datar:2004:LHS:997817.997857}
+Mayur Datar, Nicole Immorlica, Piotr Indyk, and Vahab~S. Mirrokni.
+\newblock Locality-sensitive hashing scheme based on p-stable distributions.
+\newblock In {\em Proceedings of the Twentieth Annual Symposium on
+  Computational Geometry}, SCG '04, pages 253--262, New York, NY, USA, 2004.
+  ACM.
+
+\bibitem[\protect\citeauthoryear{Gionis \bgroup \em et al.\egroup
+  }{1999}]{Gionis:1999:SSH:645925.671516}
+Aristides Gionis, Piotr Indyk, and Rajeev Motwani.
+\newblock Similarity search in high dimensions via hashing.
+\newblock In {\em Proceedings of the 25th International Conference on Very
+  Large Data Bases}, VLDB '99, pages 518--529, San Francisco, CA, USA, 1999.
+  Morgan Kaufmann Publishers Inc.
+
+\bibitem[\protect\citeauthoryear{Gong \bgroup \em et al.\egroup
+  }{2013}]{PMID:24136430}
+Yunchao Gong, Svetlana Lazebnik, Albert Gordo, and Florent Perronnin.
+\newblock Iterative quantization: a procrustean approach to learning binary
+  codes for large-scale image retrieval.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  35(12):2916—2929, December 2013.
+
+\bibitem[\protect\citeauthoryear{Huiskes \bgroup \em et al.\egroup
+  }{2010}]{Huiskes2010New}
+Mark~J. Huiskes, Bart Thomee, and Michael~S. Lew.
+\newblock New trends and ideas in visual concept detection: the mir flickr
+  retrieval evaluation initiative.
+\newblock In {\em International Conference on Multimedia Information
+  Retrieval}, pages 527--536, 2010.
+
+\bibitem[\protect\citeauthoryear{Indyk and
+  Motwani}{1998}]{Indyk:1998:ANN:276698.276876}
+Piotr Indyk and Rajeev Motwani.
+\newblock Approximate nearest neighbors: Towards removing the curse of
+  dimensionality.
+\newblock In {\em Proceedings of the Thirtieth Annual ACM Symposium on Theory
+  of Computing}, STOC '98, pages 604--613, New York, NY, USA, 1998. ACM.
+
+\bibitem[\protect\citeauthoryear{Kong and Li}{2012}]{W2012Isotropic}
+W.~Kong and W.-J. Li.
+\newblock Isotropic hashing.
+\newblock {\em Advances in Neural Information Processing Systems},
+  2:1646--1654, 2012.
+
+\bibitem[\protect\citeauthoryear{Kulis and Darrell}{2010}]{Kulis2010Learning}
+Brian Kulis and Trevor Darrell.
+\newblock Learning to hash with binary reconstructive embeddings.
+\newblock In {\em Advances in Neural Information Processing Systems 22: 23rd
+  Annual Conference on Neural Information Processing Systems 2009. Proceedings
+  of a meeting held 7-10 December 2009, Vancouver, British Columbia, Canada.},
+  pages 1042--1050, 2010.
+
+\bibitem[\protect\citeauthoryear{Kulis and Grauman}{2009}]{5459466}
+B.~Kulis and K.~Grauman.
+\newblock Kernelized locality-sensitive hashing for scalable image search.
+\newblock In {\em 2009 IEEE 12th International Conference on Computer Vision},
+  pages 2130--2137, Sept 2009.
+
+\bibitem[\protect\citeauthoryear{Lin \bgroup \em et al.\egroup
+  }{2014}]{6909650}
+G.~Lin, C.~Shen, Q.~Shi, A.~van~den Hengel, and D.~Suter.
+\newblock Fast supervised hashing with decision trees for high-dimensional
+  data.
+\newblock In {\em 2014 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1971--1978, June 2014.
+
+\bibitem[\protect\citeauthoryear{Liu \bgroup \em et al.\egroup
+  }{2011}]{Liu2011Hashing}
+Wei Liu, Jun Wang, Sanjiv Kumar, and Shih~Fu Chang.
+\newblock Hashing with graphs.
+\newblock In {\em International Conference on Machine Learning, ICML 2011,
+  Bellevue, Washington, Usa, June 28 - July}, pages 1--8, 2011.
+
+\bibitem[\protect\citeauthoryear{Liu \bgroup \em et al.\egroup
+  }{2012}]{6247912}
+W.~Liu, J.~Wang, R.~Ji, Y.~G. Jiang, and S.~F. Chang.
+\newblock Supervised hashing with kernels.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2012 IEEE
+  Conference on}, pages 2074--2081, June 2012.
+
+\bibitem[\protect\citeauthoryear{Liu \bgroup \em et al.\egroup
+  }{2014}]{NIPS2014_5332}
+Wei Liu, Cun Mu, Sanjiv Kumar, and Shih fu~Chang.
+\newblock Discrete graph hashing.
+\newblock In Z.~Ghahramani, M.~Welling, C.~Cortes, N.d. Lawrence, and K.q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems
+  27}, pages 3419--3427. Curran Associates, Inc., 2014.
+
+\bibitem[\protect\citeauthoryear{Norouzi and Blei}{2011}]{ICML2011Norouzi_246}
+Mohammad Norouzi and David~M. Blei.
+\newblock Minimal loss hashing for compact binary codes.
+\newblock In Lise Getoor and Tobias Scheffer, editors, {\em Proceedings of the
+  28th International Conference on Machine Learning (ICML-11)}, pages 353--360,
+  New York, NY, USA, 2011. ACM.
+
+\bibitem[\protect\citeauthoryear{Ny}{2010}]{Ny2010Semi}
+Newyork Ny.
+\newblock Semi-supervised hashing for scalableimageretrieval.
+\newblock In {\em 2013 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 3424--3431, 2010.
+
+\bibitem[\protect\citeauthoryear{Shrivastava and Li}{2014}]{NIPS2014_5329}
+Anshumali Shrivastava and Ping Li.
+\newblock Asymmetric lsh (alsh) for sublinear time maximum inner product search
+  (mips).
+\newblock In Z.~Ghahramani, M.~Welling, C.~Cortes, N.d. Lawrence, and K.q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems
+  27}, pages 2321--2329. Curran Associates, Inc., 2014.
+
+\bibitem[\protect\citeauthoryear{Song \bgroup \em et al.\egroup
+  }{2013}]{Song:2013:IHL:2463676.2465274}
+Jingkuan Song, Yang Yang, Yi~Yang, Zi~Huang, and Heng~Tao Shen.
+\newblock Inter-media hashing for large-scale retrieval from heterogeneous data
+  sources.
+\newblock In {\em Proceedings of the 2013 ACM SIGMOD International Conference
+  on Management of Data}, SIGMOD '13, pages 785--796, New York, NY, USA, 2013.
+  ACM.
+
+\bibitem[\protect\citeauthoryear{Wang \bgroup \em et al.\egroup
+  }{2010}]{icml2010_WangKC10}
+Jun Wang, Sanjiv Kumar, and Shih fu~Chang.
+\newblock Sequential projection learning for hashing with compact codes.
+\newblock In Johannes Fürnkranz and Thorsten Joachims, editors, {\em
+  Proceedings of the 27th International Conference on Machine Learning
+  (ICML-10)}, pages 1127--1134. Omnipress, 2010.
+
+\bibitem[\protect\citeauthoryear{Weiss \bgroup \em et al.\egroup
+  }{2009}]{NIPS2008_3383}
+Yair Weiss, Antonio Torralba, and Rob Fergus.
+\newblock Spectral hashing.
+\newblock In D.~Koller, D.~Schuurmans, Y.~Bengio, and L.~Bottou, editors, {\em
+  Advances in Neural Information Processing Systems 21}, pages 1753--1760.
+  Curran Associates, Inc., 2009.
+
+\bibitem[\protect\citeauthoryear{Xu \bgroup \em et al.\egroup
+  }{2013}]{Xu2013Harmonious}
+Bin Xu, Jiajun Bu, Yue Lin, Chun Chen, Xiaofei He, and Deng Cai.
+\newblock Harmonious hashing.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  pages 1820--1826, 2013.
+
+\bibitem[\protect\citeauthoryear{Zhang and Li}{2014}]{Zhang2014Large}
+Dongqing Zhang and Wu~Jun Li.
+\newblock Large-scale supervised multimodal hashing with semantic correlation
+  maximization.
+\newblock In {\em Twenty-Eighth AAAI Conference on Artificial Intelligence},
+  pages 173--182, 2014.
+
+\bibitem[\protect\citeauthoryear{Zhang \bgroup \em et al.\egroup
+  }{2014}]{Zhang2014SHL}
+Peichao Zhang, Wei Zhang, Wu-Jun Li, and Minyi Guo.
+\newblock Supervised hashing with latent factor models.
+\newblock In {\em Proceedings of the 37th International ACM SIGIR Conference on
+  Research \&\#38; Development in Information Retrieval}, SIGIR '14, pages
+  173--182, New York, NY, USA, 2014. ACM.
+
+\bibitem[\protect\citeauthoryear{Zhen and
+  Yeung}{2012}]{Zhen:2012:PMM:2339530.2339678}
+Yi~Zhen and Dit-Yan Yeung.
+\newblock A probabilistic model for multimodal hash function learning.
+\newblock In {\em Proceedings of the 18th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '12, pages 940--948, New York,
+  NY, USA, 2012. ACM.
+
+\bibitem[\protect\citeauthoryear{Zhu \bgroup \em et al.\egroup
+  }{2013}]{Zhu:2013:LCH:2502081.2502107}
+Xiaofeng Zhu, Zi~Huang, Heng~Tao Shen, and Xin Zhao.
+\newblock Linear cross-modal hashing for efficient multimedia search.
+\newblock In {\em Proceedings of the 21st ACM International Conference on
+  Multimedia}, MM '13, pages 143--152, New York, NY, USA, 2013. ACM.
+
+\end{thebibliography}

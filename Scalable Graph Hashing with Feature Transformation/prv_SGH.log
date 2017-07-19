@@ -1,0 +1,109 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.2.26)  16 MAY 2016 21:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&xelatex prv_SGH.ini \nonstopmode\nofiles\PassOptionsToPackage{active,tightpa
+ge,auctex}{preview}\AtBeginDocument{\ifx\ifPreview\undefined\RequirePackage[dis
+playmath,floats,graphics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} 
+\input SGH.tex
+(./prv_SGH.ini
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/mylatex.ltx)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/.tex File ignored))
+No auxiliary output files.
+
+(./SGH.tex (./acmsmall.cls
+Document Class: acmsmall 2013/08/09 v1.10 ACM class
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+ACM, Production Font style: 2010/06/28 by Aptara
+
+Using ACM, TECS option: 2010/05/04 by Aptara
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+)
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+Document Class `acmsmall' Electronic Submissions v1.10 <August 10, 2013> (ACM).
+
+\@firstpg=\count80
+\@lastpg=\count81
+\trimheight=\dimen104
+\trimwidth=\dimen105
+\normaltextheight=\dimen106
+\tempdimen=\dimen107
+\tempbox=\box26
+\tbbox=\box27
+\tabledim=\dimen108
+\symnewlargesymbols=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \bigsqcup on input line 2564.
+\normalparindent=\dimen109
+\footheight=\skip41
+\@maxsep=\skip42
+\@dblmaxsep=\skip43
+
+! LaTeX Error: File `acmcopyright.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.2742 ^^M
+          
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 798 strings out of 495658
+ 10063 string characters out of 6187951
+ 59950 words of memory out of 5000000
+ 4043 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,0n,21p,484b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SGH.aux
+The style file: named.bst
+White space in argument---line 19 of file SGH.aux
+ : \citation{
+ :            NIPS2008_3383}
+I'm skipping whatever remains of this command
+White space in argument---line 22 of file SGH.aux
+ : \citation{
+ :            Liu2011Hashing}
+I'm skipping whatever remains of this command
+Database file #1: sghref.bib
+You've used 25 entries,
+            2439 wiz_defined-function locations,
+            725 strings with 10203 characters,
+and the built_in function-call counts, 13854 in all, are:
+= -- 1469
+> -- 522
+< -- 22
++ -- 173
+- -- 172
+* -- 1012
+:= -- 1997
+add.period$ -- 87
+call.type$ -- 25
+change.case$ -- 177
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 632
+empty$ -- 1067
+format.name$ -- 206
+if$ -- 3121
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 128
+num.names$ -- 85
+pop$ -- 191
+preamble$ -- 1
+purify$ -- 202
+quote$ -- 0
+skip$ -- 579
+stack$ -- 0
+substring$ -- 918
+swap$ -- 275
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 0
+while$ -- 114
+width$ -- 28
+write$ -- 353
+(There were 2 error messages)
